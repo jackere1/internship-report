@@ -81,20 +81,16 @@
 %----------------------------------------------------------------------------------------
 
 % Дипломийн ажлын сэдэв
-\title{АНГИ, ДИПЛОМЫН АЖИЛ БИЧИХ ЗАГВАР}
+\title{Урамшууллын системийн цогц хөгжүүлэлт}
 % Дипломын ажлын англи нэр
-\titleEng{Template for bachelor thesis}
+\titleEng{Full stack loyalty system developing}
 % Өөрийн овог нэрийг бүтнээр нь бичнэ
-\author{Мөнхжаргалын Золжаргал}
+\author{Нямдоржын Энхболд}
 % Өөрийн овгийн эхний үсэг нэрээ бичнэ
-\authorShort{М.Золжаргал}
-% Удирдагчийн зэрэг цол овгийн эхний үсэг нэр
-\supervisor{Др. Ч.Алтангэрэл}
-% Хамтарсан удирдагчийн зэрэг цол овгийн эхний үсэг нэр
-\cosupervisor{Др. Г.Амарсанаа}
+\authorShort{Н.Энхболд}
 
 % СиСи дугаар 
-\sisiId{12D1SIT0001}
+\sisiId{20B1NUM0102}
 % Их сургуулийн нэр
 \university{МОНГОЛ УЛСЫН ИХ СУРГУУЛЬ}
 % Бүрэлдэхүүн сургуулийн нэр
@@ -102,95 +98,33 @@
 % Тэнхимийн нэр
 \department{МЭДЭЭЛЭЛ, КОМПЬЮТЕРИЙН УХААНЫ ТЭНХИМ}
 % Зэргийн нэр
-\degreeName{Бакалаврын судалгааны ажил}
+\degreeName{Үйлдвэрлэлийн дадлагын тайлан}
 % Суралцаж буй хөтөлбөрийн нэр
-\programeName{Мэдээллийн технологи (D061303)}
+\programeName{Програм хангамж (D061302)}
 % Хэвлэгдсэн газар
 \cityName{Улаанбаатар}
 % Хэвлэгдсэн огноо
-\gradyear{2019 оны 05 сар}
-
+\gradyear{2023 оны 09 сар}
 
 %----------------------------------------------------------------------------------------
 %   Доорх хэсгийг өөрчлөх шаардлагагүй
 %----------------------------------------------------------------------------------------
-\include{main-pre}
+\include{main/main-pre}
 
 % Удиртгалыг оруулж ирэх ба abstract.tex файлд удиртгалаа бичнэ
-\include{abstract}
+\include{main/abstract}
+
+\include{main/plan}
 
 %----------------------------------------------------------------------------------------
 %   Дипломын үндсэн хэсэг эндээс эхэлнэ
 %----------------------------------------------------------------------------------------
 %\addcontentsline{toc}{part}{БҮЛГҮҮД}
 % Шинэ бүлэг
-\chapter{Тайлан боловсруулах зөвлөмж}
-\subfile{writing.tex}
+% \subfile{writing.tex}
+\include{chapters/aboutCompany}
 
-\chapter{Бичвэр боловсруулалт}
-Бүлгийн гарчгийн дор тухайн бүлэгт юу агуулж байгаа, юуны талаар өгүүлэхийг товч бичих нь баримт бичгийг уншигчдад илүү ойлгомжтой болгодог.
-% Бүлгийн дэд гарчиг
-\section{Шинэ мөр ба цогцолбор}
-Латекс бичих явцад олон хоосон зай, шинэ мөр авахад гаралтын файлд ганцхан хоосон зайгаар дүрсэлж харуулдгаараа бусад засварлагчаас ялгаатай юм. 
-
-Шинэ мөр буюу цогцолбор (paragraph) авахдаа хоёр удаа enter товч дарах буюу нэг хоосон мөр үлдээж бичнэ. \par Эсвэл par командыг бичнэ. 
-\\Харин шинэ мөр авахдаа хоёр ширхэг ургашаа налуу зураас дарааллуулан бичнэ.  Дэлгэрэнгүйг \cite{pharagraph1}-с унш.
-
-Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
-
-The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
-
-\section{Бичвэр зэрэгцүүлэх}
-\subsection{Зүүн тийш зэрэгцүүлэх}
-\begin{flushleft}
-Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
-
-The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
-\end{flushleft}
-
-\subsection{Баруун тийш зэрэгцүүлэх}
-\begin{flushright}
-Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.
-
-The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from "de Finibus Bonorum et Malorum" by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.
-\end{flushright}
-
-
-\section{Хэлбэржилт}
-Энэ бүлэгт бичвэрийг хэлбэржүүлэх (format) командуудын талаар дурьдана. Илүү дэлгэрэнгүйг \cite{format1}-с хар.
-
-\subsection{Тодруулах}
-\texttt{\textbackslash textbf} командаар бичвэрийг \textbf{тодруулах буюу болд} болгоно.
-
-\subsection{Налуулах}
-\texttt{\textbackslash textit} командаар бичвэрийг \textit{бичмэл буюу италик} болгоно.
-
-\subsection{Доогуур зураас}
-\texttt{\textbackslash underline} командаар бичвэрийг \textbf{тодруулах буюу болд} болгоно.
-
-\section{URL оруулах}
-\texttt{\textbackslash url} команд дотор холбоосыг бичнэ. \url{http://milab.num.edu.mn}
-
-
-\section{Жагсаалт}
-\subsection{Энгийн жагсаалт}
-\texttt{\textbackslash begin\{itemize\}} командын дотор энгийн жагсаалтыг бичнэ \cite{list}. 
-\begin{itemize}
-	\item Жагсаалтын эхний элемент
-	\item Жагсаалтын хоёрдугаар элемент
-	\item Жагсаалтын гуравдугаар элемент
-	\item Жагсаалтын дөрөвдүгээр элемент
-\end{itemize} 
-
-\subsection{Дугаартай жагсаалт}
-\texttt{\textbackslash begin\{enumerate\}} командын дотор энгийн жагсаалтыг бичнэ \cite{list}. 
-\begin{enumerate}
-	\item Жагсаалтын эхний элемент
-	\item Жагсаалтын хоёрдугаар элемент
-	\item Жагсаалтын гуравдугаар элемент
-	\item Жагсаалтын дөрөвдүгээр элемент
-\end{enumerate} 
-
+\include{chapters/aboutProject}
 
 \chapter{Ишлэл, зүүлт}
 \section{Ишлэл}
