@@ -25,6 +25,6 @@
 \contentsline {chapter}{\numberline {9.}\uppercase {Код ба алгоритм оруулах}}{18}{chapter.9}%
 \contentsline {part}{\uppercase {Дүгнэлт}}{20}{algorithm.1}%
 \contentsline {part}{НОМ ЗҮЙ}{20}{algorithm.1}%
-\contentsline {part}{ХАВСРАЛТ}{21}{chapter*.7}%
+\contentsline {part}{ХАВСРАЛТ}{21}{chapter*.8}%
 \contentsline {chapter}{\numberline {A.}\uppercase {Шинжилгээ зохиомж}}{22}{appendix.A}%
 \contentsline {chapter}{\numberline {B.}\uppercase {Кодын хэрэгжүүлэлт}}{23}{appendix.B}%

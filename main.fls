@@ -333,6 +333,9 @@ OUTPUT chapters\research.aux
 INPUT .\chapters\research.tex
 INPUT .\chapters\research.tex
 INPUT chapters\research.tex
+INPUT .\imgs\bloc.png
+INPUT .\imgs\bloc.png
+INPUT .\imgs\bloc.png
 INPUT .\chapters\loyalty.tex
 INPUT .\chapters\loyalty.tex
 OUTPUT chapters\loyalty.aux
