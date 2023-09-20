@@ -9,22 +9,30 @@
 \contentsline {section}{\numberline {3.2}Контор}{7}{section.3.2}%
 \contentsline {section}{\numberline {3.3}Мобайл аппликейшн}{7}{section.3.3}%
 \contentsline {chapter}{\numberline {4.}\uppercase {Технологийн судалгаа}}{9}{chapter.4}%
-\contentsline {section}{\numberline {4.1}BLoC}{9}{section.4.1}%
-\contentsline {chapter}{\numberline {5.}\uppercase {Урамшууллын систем}}{11}{chapter.5}%
-\contentsline {chapter}{\numberline {6.}\uppercase {Ишлэл, зүүлт}}{12}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Ишлэл}{12}{section.6.1}%
-\contentsline {section}{\numberline {6.2}Зүүлт}{12}{section.6.2}%
-\contentsline {chapter}{\numberline {7.}\uppercase {Зураг}}{13}{chapter.7}%
-\contentsline {section}{\numberline {7.1}Зургийн хэмжээ өөрчлөх}{13}{section.7.1}%
-\contentsline {section}{\numberline {7.2}Зураг эргүүлэх}{14}{section.7.2}%
-\contentsline {section}{\numberline {7.3}Зургийн нэр}{15}{section.7.3}%
-\contentsline {section}{\numberline {7.4}Зураг голлуулах}{16}{section.7.4}%
-\contentsline {section}{\numberline {7.5}Зургийн чанар}{16}{section.7.5}%
-\contentsline {chapter}{\numberline {8.}\uppercase {Хүснэгт оруулах}}{17}{chapter.8}%
-\contentsline {section}{\numberline {8.1}Хүснэгт зурах хэрэгсэл}{17}{section.8.1}%
-\contentsline {chapter}{\numberline {9.}\uppercase {Код ба алгоритм оруулах}}{18}{chapter.9}%
-\contentsline {part}{\uppercase {Дүгнэлт}}{20}{algorithm.1}%
-\contentsline {part}{НОМ ЗҮЙ}{20}{algorithm.1}%
-\contentsline {part}{ХАВСРАЛТ}{21}{chapter*.8}%
-\contentsline {chapter}{\numberline {A.}\uppercase {Шинжилгээ зохиомж}}{22}{appendix.A}%
-\contentsline {chapter}{\numberline {B.}\uppercase {Кодын хэрэгжүүлэлт}}{23}{appendix.B}%
+\contentsline {section}{\numberline {4.1}Flutter - BLoC}{9}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}Үндсэн бүтэц}{9}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {4.1.2}Хэрэгжүүлэлт}{10}{subsection.4.1.2}%
+\contentsline {section}{\numberline {4.2}Spring boot - JHipster}{13}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Spring boot support}{13}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}Хэрэгжүүлэлт}{14}{subsection.4.2.2}%
+\contentsline {chapter}{\numberline {5.}\uppercase {Асуудал ба шийдэл}}{22}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Админ dashboard}{22}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Retry стратеги}{25}{section.5.2}%
+\contentsline {chapter}{\numberline {6.}\uppercase {Урамшууллын систем}}{27}{chapter.6}%
+\contentsline {chapter}{\numberline {7.}\uppercase {Ишлэл, зүүлт}}{28}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Ишлэл}{28}{section.7.1}%
+\contentsline {section}{\numberline {7.2}Зүүлт}{28}{section.7.2}%
+\contentsline {chapter}{\numberline {8.}\uppercase {Зураг}}{29}{chapter.8}%
+\contentsline {section}{\numberline {8.1}Зургийн хэмжээ өөрчлөх}{29}{section.8.1}%
+\contentsline {section}{\numberline {8.2}Зураг эргүүлэх}{30}{section.8.2}%
+\contentsline {section}{\numberline {8.3}Зургийн нэр}{31}{section.8.3}%
+\contentsline {section}{\numberline {8.4}Зураг голлуулах}{32}{section.8.4}%
+\contentsline {section}{\numberline {8.5}Зургийн чанар}{32}{section.8.5}%
+\contentsline {chapter}{\numberline {9.}\uppercase {Хүснэгт оруулах}}{33}{chapter.9}%
+\contentsline {section}{\numberline {9.1}Хүснэгт зурах хэрэгсэл}{33}{section.9.1}%
+\contentsline {chapter}{\numberline {10.}\uppercase {Код ба алгоритм оруулах}}{34}{chapter.10}%
+\contentsline {part}{\uppercase {Дүгнэлт}}{36}{algorithm.1}%
+\contentsline {part}{НОМ ЗҮЙ}{36}{algorithm.1}%
+\contentsline {part}{ХАВСРАЛТ}{37}{chapter*.10}%
+\contentsline {chapter}{\numberline {A.}\uppercase {Шинжилгээ зохиомж}}{38}{appendix.A}%
+\contentsline {chapter}{\numberline {B.}\uppercase {Кодын хэрэгжүүлэлт}}{39}{appendix.B}%
