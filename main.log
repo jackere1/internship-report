@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.9) (preloaded format=xelatex 2023.9.19)  20 SEP 2023 13:04
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.9) (preloaded format=xelatex 2023.9.19)  20 SEP 2023 14:49
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -635,17 +635,14 @@ LaTeX Warning: Label `DescriptiveLabel' multiply defined.
 
 LaTeX Warning: Label `DescriptiveLabel' multiply defined.
 
-) (chapters/loyalty.aux)
+) (chapters/loyalty.aux) (chapters/implementation.aux
 
 LaTeX Warning: Label `DescriptiveLabel' multiply defined.
 
 
 LaTeX Warning: Label `DescriptiveLabel' multiply defined.
 
-
-LaTeX Warning: Label `DescriptiveLabel' multiply defined.
-
-)
+))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 76.
@@ -860,7 +857,11 @@ Package geometry Warning: `letterpaper': not available in `\newgeometry'; skippe
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-(main.toc
+(main.toc)
+\tf@toc=\write5
+\openout5 = `main.toc'.
+
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -870,21 +871,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [2
 
-])
-\tf@toc=\write5
-\openout5 = `main.toc'.
-
-LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/sl' in size <12> not available
-(Font)              Font shape `TU/TimesNewRoman(0)/m/it' tried instead on input line 29.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[3]
+]
 
 Package geometry Warning: `letterpaper': not available in `\newgeometry'; skipped.
 
@@ -932,7 +919,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[4
+[3
 
 
 
@@ -984,7 +971,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[5
+[4
 
 
 
@@ -1000,7 +987,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[6
+[5
 
 
 
@@ -1027,6 +1014,8 @@ Overfull \hbox (11.73402pt too wide) in paragraph at lines 8--9
 []\TU/TimesNewRoman(0)/m/n/12 Төслийн баг нь архитектор, back-end хөгжүүлэгч, програм хангамж хөтөлбөрийн 2 дадлагын
  []
 
+LaTeX Font Info:    Font shape `TU/TimesNewRoman(0)/m/sl' in size <12> not available
+(Font)              Font shape `TU/TimesNewRoman(0)/m/it' tried instead on input line 11.
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1444,7 +1433,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.53363pt}.
 
 [20])
-Overfull \hbox (8.70277pt too wide) in paragraph at lines 296--129
+Overfull \hbox (8.70277pt too wide) in paragraph at lines 296--128
 []\TU/TimesNewRoman(0)/m/it/12 Цаашлаад үүсгэсэн сервисүүд болон тохиргооны файлууд, docker support файлууд, нэгжийн
  []
 
@@ -1551,9 +1540,39 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\uppercase' on input line 1.
 
-)
-Underfull \hbox (badness 10000) in paragraph at lines 1--133
 
+Underfull \hbox (badness 10000) in paragraph at lines 1--2
+
+ []
+
+
+Overfull \hbox (16.42464pt too wide) in paragraph at lines 3--9
+[]\TU/TimesNewRoman(0)/m/n/12 Hoome аппликейшнд шинэ хэрэглэгчдийг татах, нийт хэрэглэгч дунд аппликейшны хэрэглээг
+ []
+
+
+Overfull \hbox (4.27815pt too wide) in paragraph at lines 3--9
+\TU/TimesNewRoman(0)/m/n/12 өргөжүүлэх, улмаар Hoome аппликейшны зах зээлд өрсөлдөх чадварыг нэмэгдүүлэх зорилгоор
+ []
+
+
+Overfull \hbox (7.04755pt too wide) in paragraph at lines 3--9
+\TU/TimesNewRoman(0)/m/n/12 тус аппликейшн дээр оноо цуглуулах системийг хэрэгжүүлж байна. Хэрэглэгчид оноо (цаашид
+ []
+
+
+Overfull \hbox (18.26643pt too wide) in paragraph at lines 3--9
+\TU/TimesNewRoman(0)/m/n/12 HPoint гэж нэрлэнэ) цуглуулж түүгээрээ олон төрлийн хөнгөлөлт, урамшууллыг эдлэх боломжийг
+ []
+
+
+Overfull \hbox (11.36743pt too wide) in paragraph at lines 20--22
+[]\TU/TimesNewRoman(0)/m/n/12 Цуглуулах - Дахин давтагдашгүй хэрэглэгчийн редим кодтой байх. Түүгээр уригдсан
+ []
+
+
+Overfull \hbox (22.35237pt too wide) in paragraph at lines 25--27
+[]\TU/TimesNewRoman(0)/m/n/12 Бусад дижитал бүтээгдэхүүн, платформд ашиглагддаг хэтэвчтэй интеграци хийх боломжтой
  []
 
 
@@ -1569,199 +1588,184 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 
 ]
-\uppercase {Бүлэг}7.
+File: imgs/hpointUseCase.JPG Graphic file (type bmp)
+<imgs/hpointUseCase.JPG>
 
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\uppercase' on input line 135.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 135--136
-
+Overfull \hbox (5.1332pt too wide) in paragraph at lines 47--47
+[]|\TU/TimesNewRoman(0)/m/n/12 ФШ01| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 137--140
-
+Underfull \hbox (badness 10000) in paragraph at lines 47--47
+[]|\TU/TimesNewRoman(0)/m/n/12 Хэрэглэгч шинэ хэрэглэгчдийг
  []
 
 
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[28
-
-
-
-]
-\uppercase {Бүлэг}8.
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\uppercase' on input line 151.
-
-File: figure01.png Graphic file (type bmp)
-<figure01.png>
-File: figure01.png Graphic file (type bmp)
-<figure01.png>
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[29
-
-]
-File: figure01.png Graphic file (type bmp)
-<figure01.png>
-File: figure01.png Graphic file (type bmp)
-<figure01.png>
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[30]
-File: figure01.png Graphic file (type bmp)
-<figure01.png>
-File: figure01.png Graphic file (type bmp)
-<figure01.png>
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.53363pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.53363pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.53363pt}.
-
-[31]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[32]
-\uppercase {Бүлэг}9.
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\uppercase' on input line 206.
-
-
-Overfull \hbox (0.34181pt too wide) in paragraph at lines 223--225
-[]\TU/TimesNewRoman(0)/m/n/12 Цэвэр LaTex кодоор Хүснэгт үүсгэхэд харьцангуй төвөгтэй байдаг учир хялбар хэрэгслийг
+Overfull \hbox (5.1332pt too wide) in paragraph at lines 48--48
+[]|\TU/TimesNewRoman(0)/m/n/12 ФШ02| 
  []
 
 
-Overfull \hbox (16.15431pt too wide) in paragraph at lines 226--227
-[]\TU/TimesNewRoman(0)/m/n/12 Тухайлбал []$[][][][][] [] [] [] [][][] [] [][][][][][][][][][][][][][][] [] [][][][]$[] холбоосруу орж хүснэгтийг визуал орчинд
+Underfull \hbox (badness 10000) in paragraph at lines 48--48
+\TU/TimesNewRoman(0)/m/n/12 бүртгүүлэхдээ найзын урилгаа
  []
 
 
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[33
-
-]
-\uppercase {Бүлэг}10.
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\uppercase' on input line 228.
-
-(C:\Users\temka\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
-File: lstlang1.sty 2023/02/27 1.9 listings language file
-) (C:\Users\temka\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
-File: lstmisc.sty 2023/02/27 1.9 (Carsten Heinz)
-) (hello.c)
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[34
-
-]
-Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on input line 263.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[35]
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\uppercase' on input line 284.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[36]
-Underfull \hbox (badness 10000) in paragraph at lines 296--297
-[]\TU/TimesNewRoman(0)/m/n/12 Inserting Images, Share LaTex, []$[][][][][] [] [] [] [][][] [] [][][][][][][][][][] [] [][][] [] [][][][][] [] [][][][][][][][][] []
+Underfull \hbox (badness 10000) in paragraph at lines 48--48
+[]|\TU/TimesNewRoman(0)/m/n/12 Уригдсан хэрэглэгч тухайн
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 298--299
-[]\TU/TimesNewRoman(0)/m/n/12 Paragraphs and new lines, Share LaTex, []$[][][][][] [] [] [] [][][] [] [][][][][][][][][][] [] [][][] [] [][][][][] []
+Overfull \hbox (5.1332pt too wide) in paragraph at lines 49--49
+[]|\TU/TimesNewRoman(0)/m/n/12 ФШ03| 
  []
 
 
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[37
-
-]
-AppendixA.
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\uppercase' on input line 315.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller to compensate:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[38
-
-]
-AppendixB.
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\uppercase' on input line 319.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 319--320
-
+Underfull \hbox (badness 7944) in paragraph at lines 49--49
+\TU/TimesNewRoman(0)/m/n/12 баталгаажуулсны дараа урилга
  []
 
-(C:\Users\temka\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
-File: lstlang1.sty 2023/02/27 1.9 listings language file
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--49
+[]|\TU/TimesNewRoman(0)/m/n/12 Ингэснээр хуурамч хэрэглэгч
+ []
+
+
+Underfull \hbox (badness 1742) in paragraph at lines 49--49
+\TU/TimesNewRoman(0)/m/n/12 үүсэхээс сэргийлэхийн зэрэгцээ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 49--49
+\TU/TimesNewRoman(0)/m/n/12 байгууллагаас гарах зарлагын
+ []
+
+
+Overfull \hbox (5.1332pt too wide) in paragraph at lines 50--50
+[]|\TU/TimesNewRoman(0)/m/n/12 ФШ04| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+[]|\TU/TimesNewRoman(0)/m/n/12 Хэрэглэгч бүр өөрийн гэсэн
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\TU/TimesNewRoman(0)/m/n/12 HPoint оноог цуглуулдаг
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+[]|\TU/TimesNewRoman(0)/m/n/12 Хэрэглэгч тухайн оноогоо
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+\TU/TimesNewRoman(0)/m/n/12 авахад тохирох дүнгээр
+ []
+
+
+Overfull \hbox (5.1332pt too wide) in paragraph at lines 51--51
+[]|\TU/TimesNewRoman(0)/m/n/12 ФШ05| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--51
+[]|\TU/TimesNewRoman(0)/m/n/12 Хэрэглэгч цуглуулсан HPoint
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--51
+\TU/TimesNewRoman(0)/m/n/12 оноогоо ашиглан СӨХ-ийн
+ []
+
+
+Underfull \hbox (badness 3514) in paragraph at lines 51--51
+\TU/TimesNewRoman(0)/m/n/12 төлбөрөөс хасуулах боломжтой
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Overfull \hbox (5.1332pt too wide) in paragraph at lines 58--58
+[]|\TU/TimesNewRoman(0)/m/n/12 ФШ06| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--58
+[]|\TU/TimesNewRoman(0)/m/n/12 Хэрэглэгч цуглуулсан HPoint
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--58
+\TU/TimesNewRoman(0)/m/n/12 оноогоо ашиглан зогсоолын
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--58
+[]|\TU/TimesNewRoman(0)/m/n/12 Зөвхөн CCP ашигладаг
+ []
+
+
+Overfull \hbox (5.1332pt too wide) in paragraph at lines 59--59
+[]|\TU/TimesNewRoman(0)/m/n/12 ФШ07| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--59
+\TU/TimesNewRoman(0)/m/n/12 түүнийг урисан болон урилга
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--59
+[]|\TU/TimesNewRoman(0)/m/n/12 Урисан ба уригдсан хүмүүст
+ []
+
+
+Overfull \hbox (5.1332pt too wide) in paragraph at lines 60--60
+[]|\TU/TimesNewRoman(0)/m/n/12 ФШ08| 
+ []
+
+
+Overfull \hbox (5.1332pt too wide) in paragraph at lines 61--61
+[]|\TU/TimesNewRoman(0)/m/n/12 ФШ09| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--61
+[]|\TU/TimesNewRoman(0)/m/n/12 Хэрэглэгч ITStore дээр
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--61
+\TU/TimesNewRoman(0)/m/n/12 бүртгэлтэй бол ITStore-ын
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--61
+[]|\TU/TimesNewRoman(0)/m/n/12 ITStore-ын хэтэвчин дэх
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--61
+\TU/TimesNewRoman(0)/m/n/12 үлдэгдлээ Hoome аппликейшн
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--61
+\TU/TimesNewRoman(0)/m/n/12 рүү HPoint болгон хөрвүүлж
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--61
+\TU/TimesNewRoman(0)/m/n/12 болдог байна. Хоёр талын
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
 )
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1770,9 +1774,105 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller to compensate:
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[39
+[28]
 
-] (main.aux (main/main-pre.aux) (main/abstract.aux) (main/plan.aux) (chapters/aboutCompany.aux) (chapters/aboutProject.aux) (chapters/research.aux) (chapters/solved.aux) (chapters/loyalty.aux))
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[29]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[30]
+\openout2 = `chapters/implementation.aux'.
+
+ (chapters/implementation.tex
+\uppercase {Бүлэг}7.
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\uppercase' on input line 1.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--2
+
+ []
+
+File: imgs/erd.png Graphic file (type bmp)
+<imgs/erd.png>
+File: imgs/hpoint.png Graphic file (type bmp)
+<imgs/hpoint.png>
+File: imgs/hpoint-park.png Graphic file (type bmp)
+<imgs/hpoint-park.png>
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[31
+
+
+
+
+]
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.53363pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.53363pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.53363pt}.
+
+[32])
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.53363pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.53363pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.53363pt}.
+
+[33]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `\uppercase' on input line 139.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--140
+
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.53363pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.53363pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.53363pt}.
+
+[34
+
+
+]
+Underfull \hbox (badness 1859) in paragraph at lines 153--154
+[]\TU/TimesNewRoman(0)/m/n/12 Why bloc?, BLoC state management library, []$[][][][][] [] [] [] [][][][][][][][][][][] [] [][][] [] [] []
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[35
+
+] (main.aux (main/main-pre.aux) (main/abstract.aux) (main/plan.aux) (chapters/aboutCompany.aux) (chapters/aboutProject.aux) (chapters/research.aux) (chapters/solved.aux) (chapters/loyalty.aux) (chapters/implementation.aux))
  ***********
 LaTeX2e <2023-06-01> patch level 1
 L3 programming layer <2023-08-29>
@@ -1782,15 +1882,15 @@ L3 programming layer <2023-08-29>
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 6B9C1C361844B15054BE710F23A81D6C;5420.
+(rerunfilecheck)             Checksum: DC5580D1BEADE8F855C32962530437F9;3976.
  ) 
 Here is how much of TeX's memory you used:
- 23068 strings out of 410378
- 416175 string characters out of 5788030
+ 22840 strings out of 410378
+ 413907 string characters out of 5788030
  2061432 words of memory out of 5000000
- 43998 multiletter control sequences out of 15000+600000
- 567031 words of font info for 119 fonts, out of 8000000 for 9000
+ 43781 multiletter control sequences out of 15000+600000
+ 564427 words of font info for 101 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  110i,13n,117p,797b,1917s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.xdv (47 pages, 646948 bytes).
+Output written on main.xdv (42 pages, 625048 bytes).
